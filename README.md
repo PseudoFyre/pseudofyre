@@ -1,8 +1,8 @@
 # James Morris — @PseudoFyre
 
-Hi, I'm James—A 31 year old programmer from England. My past was heavily based around IRC. This is where I learned to manager servers and extend my programming knowledge.
+Hi, I'm James—A 31 year old programmer from England. My past was heavily based around IRC. This is where I learned to manage servers and extend my programming knowledge.
 
-In 2008, I met [Sketch](https://github.com/SketchNI) through an IRC Network named (UKBlabberbox). This soon became my main focus for the next few years, 10 years is just a few, right? It went through many iterations and changes.
+In 2008, I met [Sketch](https://github.com/SketchNI) through an IRC Network named UKBlabberbox. This soon became my main focus for the next few years, 10 years is just a few, right? It went through many iterations and changes.
 
 The past couple of years, I started out as a server admin for a content creator named [Kryllyk](https://www.youtube.com/kryllyk). While part of that team my duties included managing and maintaining his network of Minecraft servers working alongside the Community Manager and helping with various behinds the scenes stuff working on ways to expand, develop and diversify the community.
 
