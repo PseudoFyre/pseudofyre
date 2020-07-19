@@ -16,9 +16,3 @@ My motivations are to stabilize and provide clarity through curiosity. This tend
 - Personal Site: Currently in development
 - Discord: Jēmuzu#3228
 
-
----
- **Now Playing** on Spotify
- 
- # Coming Soon!
-
